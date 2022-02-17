@@ -11,6 +11,6 @@ Script for discovering related ips to a certain domain + subdomain finder.
 
 → Posible params: 
 
-    -s    Saves the resolved IP to a text file.
+    -s    Saves the resolved IPs to a text file.
     
 ❄️
