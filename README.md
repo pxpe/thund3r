@@ -6,11 +6,11 @@ Script for discovering related ips to a certain domain + subdomain finder.
 
 → Usage: 
 
-    python3 ./thund3r.py
+    python ./thund3r.py
 
 
 → Posible params: 
 
-    -s {filename}    Saves the resolved IP to a text file.
+    -s    Saves the resolved IP to a text file.
     
 ❄️
